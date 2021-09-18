@@ -1,0 +1,27 @@
+1. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/Samssoto1/CSE341-Project
+
+3. Briefly list and describe the elements of the application that are functioning. 
+Three routes were handled ("/", "/users", "/create-user") and name submitted in the form are displayed in the console and on the /users page.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+Everything seems to be working correctly.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+The "coolest" thing I learned while working on this assignment was how routing worked. Prior to these first few videos, I had no idea how routes were handled.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+Maybe some tips on how I could implement updating the name to the /users page. I feel that you may have listed that part as a challenge, but I'm not truly sure how I was suppossed to do it.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+4 or 5
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+I was able to meet all the requirements and complete the final above and beyond requirement. However, I'm not sure if I completed the final requirement in the way that I was suppossed to....
