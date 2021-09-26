@@ -13,6 +13,22 @@
           <%= title %>
         </h1>
         <p>This is the placeholder for Team Activity 02</p>
+        <form action="/ta02/addUser" method="POST" class="text-danger">
+          <label for="add-user">Add user</label>
+          <input type="text" name="add-user" class="text-danger">
+          <button type="submit">Add user</button>
+        </form>
+        <div>
+          <%names.forEach(name => { %>
+            <h3><%= name %></h3>
+        <%  })%>
+          <p></p>
+          <form action="/ta02/removeUser" method="POST" class="text-danger">
+            <label for="user">Remove user</label>
+            <input type="text" name="user" class="text-danger">
+            <button type="submit">Remove user</button>
+          </form>
+        </div>
       </div>
     </div>
     <div class="container">
